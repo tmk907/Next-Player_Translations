@@ -966,4 +966,13 @@
   <data name="TBRadioLower.Text" xml:space="preserve">
     <value>radio</value>
   </data>
+  <data name="TBUseSystemIndexing.Text" xml:space="preserve">
+    <value>Użyj systemu indeksowania (wyszukiwanie jest dużo szybsze). Wyłącz, jeśli niektóre pliki nie zostały znalezione.</value>
+  </data>
+  <data name="TBIgnoreFollowingArticles.Text" xml:space="preserve">
+    <value>Ignoruj następujące przedimki podczas sortowania wg. nazwy albumu, artysty lub tytułu:</value>
+  </data>
+  <data name="TBLastLibraryUpdate.Text" xml:space="preserve">
+    <value>Ostatnia aktualizacja:</value>
+  </data>
 </root>
