@@ -975,4 +975,10 @@
   <data name="TBIgnoreFollowingArticles.Text" xml:space="preserve">
     <value>gnore following articles, when sorting by album name, artist or title:</value>
   </data>
+  <data name="TBMatchAlbumArtAccent.Text" xml:space="preserve">
+    <value>Match accent color to album art</value>
+  </data>
+  <data name="TBNowPlayingBackgroundAlbumArt.Text" xml:space="preserve">
+    <value>Show album art in background in now playing view</value>
+  </data>
 </root>

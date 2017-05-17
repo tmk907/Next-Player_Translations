@@ -975,4 +975,10 @@
   <data name="TBLastLibraryUpdate.Text" xml:space="preserve">
     <value>Last update:</value>
   </data>
+  <data name="TBMatchAlbumArtAccent.Text" xml:space="preserve">
+    <value>Match accent color to album art</value>
+  </data>
+  <data name="TBNowPlayingBackgroundAlbumArt.Text" xml:space="preserve">
+    <value>Show album art in background in now playing view</value>
+  </data>
 </root>

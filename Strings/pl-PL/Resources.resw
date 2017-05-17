@@ -975,4 +975,10 @@
   <data name="TBLastLibraryUpdate.Text" xml:space="preserve">
     <value>Ostatnia aktualizacja:</value>
   </data>
+  <data name="TBMatchAlbumArtAccent.Text" xml:space="preserve">
+    <value>Dopasuj kolor wiodący do okładki albumu</value>
+  </data>
+  <data name="TBNowPlayingBackgroundAlbumArt.Text" xml:space="preserve">
+    <value>Pokaż okładkę albumu w tle w widoku teraz odtwarzane</value>
+  </data>
 </root>
