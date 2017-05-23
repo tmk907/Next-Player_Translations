@@ -981,4 +981,46 @@
   <data name="TBNowPlayingBackgroundAlbumArt.Text" xml:space="preserve">
     <value>Pokaż okładkę albumu w tle w widoku teraz odtwarzane</value>
   </data>
+  <data name="TBInstalledExtensions.Text" xml:space="preserve">
+    <value>Zainstalowane:</value>
+  </data>
+  <data name="TBAvailableExtensions.Text" xml:space="preserve">
+    <value>Dostępne:</value>
+  </data>
+  <data name="ButtonInstall.Content" xml:space="preserve">
+    <value>Instaluj</value>
+  </data>
+  <data name="ButtonSearchLyrics.Label" xml:space="preserve">
+    <value>Szukaj tekstu</value>
+  </data>
+  <data name="AppBarButtonShare.Label" xml:space="preserve">
+    <value>Udostępnij</value>
+  </data>
+  <data name="TBTranslations.Text" xml:space="preserve">
+    <value>Tłumaczenia</value>
+  </data>
+  <data name="ContentDialogTranslations.Title" xml:space="preserve">
+    <value>Tłumaczenia</value>
+  </data>
+  <data name="TBRateApp.Text" xml:space="preserve">
+    <value>Oceń aplikację</value>
+  </data>
+  <data name="TBMailToSupport.Text" xml:space="preserve">
+    <value>Mail to support</value>
+  </data>
+  <data name="TBLicenses.Text" xml:space="preserve">
+    <value>Licencje</value>
+  </data>
+  <data name="TBLikeOnFacebook.Text" xml:space="preserve">
+    <value>Polub na Facebooku</value>
+  </data>
+  <data name="TBLeaveFeedback.Text" xml:space="preserve">
+    <value>Zostaw opinię</value>
+  </data>
+  <data name="ContentDialogTranslations.PrimaryButtonText" xml:space="preserve">
+    <value>Translate</value>
+  </data>
+  <data name="ContentDialogTranslations.SecondaryButtonText" xml:space="preserve">
+    <value>Zamknij</value>
+  </data>
 </root>
