@@ -1023,4 +1023,7 @@
   <data name="ContentDialogTranslations.SecondaryButtonText" xml:space="preserve">
     <value>Close</value>
   </data>
+  <data name="AppBarButtonScrollToPlayingSong.Label" xml:space="preserve">
+    <value>Scroll to playing song</value>
+  </data>
 </root>

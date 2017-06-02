@@ -1023,4 +1023,7 @@
   <data name="ContentDialogTranslations.SecondaryButtonText" xml:space="preserve">
     <value>Zamknij</value>
   </data>
+  <data name="AppBarButtonScrollToPlayingSong.Label" xml:space="preserve">
+    <value>Przewiń to odtwarzanego utworu</value>
+  </data>
 </root>
