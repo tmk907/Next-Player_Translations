@@ -192,9 +192,6 @@
   <data name="ContentDialogNewPlaylist.SecondaryButtonText" xml:space="preserve">
     <value>Abbrechen</value>
   </data>
-  <data name="ContentDialogNewPlaylist.Title" xml:space="preserve">
-    <value>Wiedergabeliste erstellen und Titel hinzufügen</value>
-  </data>
   <data name="Delete" xml:space="preserve">
     <value>Löschen</value>
   </data>
@@ -328,10 +325,10 @@
     <value>Tag-Editor</value>
   </data>
   <data name="PivotHeaderTBLyrics.Text" xml:space="preserve">
-    <value>Liedtext</value>
+    <value>liedtext</value>
   </data>
   <data name="PivotHeaderTBNowPlaying.Text" xml:space="preserve">
-    <value>Aktuelle Wiedergabe</value>
+    <value>aktuelle Wiedergabe</value>
   </data>
   <data name="PlayCount" xml:space="preserve">
     <value>Anzahl der Wiedergaben</value>
@@ -352,7 +349,7 @@
     <value>Bewertung</value>
   </data>
   <data name="RBAddToNowPlaying.Content" xml:space="preserve">
-    <value>Füge zur aktuellen Wiedergabeliste hinzu</value>
+    <value>Füge zur aktuellen Wiedergabe hinzu</value>
   </data>
   <data name="RBDark.Content" xml:space="preserve">
     <value>Dunkel</value>
@@ -832,7 +829,7 @@
     <value>OK</value>
   </data>
   <data name="Add to now playing" xml:space="preserve">
-    <value>Zur aktuellen Wiedergabe hinzufügen</value>
+    <value>Füge zur aktuellen Wiedergabe hinzu</value>
   </data>
   <data name="Add to playlist" xml:space="preserve">
     <value>Zu Wiedergabeliste hinzufügen</value>
@@ -850,7 +847,7 @@
     <value>Ausgeblendete Anzeigen</value>
   </data>
   <data name="DontIncludeSubFolders" xml:space="preserve">
-    <value>Ohne Unterordner</value>
+    <value>ohne Unterordner</value>
   </data>
   <data name="DoYouWantExcludeFolderFromLibrary" xml:space="preserve">
     <value>Möchtest du diesen Titel wirklich aus der Bibliothek ausschließen?</value>
@@ -862,7 +859,7 @@
     <value>Online</value>
   </data>
   <data name="TBStreamsLower.Text" xml:space="preserve">
-    <value>Streams</value>
+    <value>streams</value>
   </data>
   <data name="Online" xml:space="preserve">
     <value>Online</value>
@@ -937,34 +934,34 @@
     <value>Aktualisieren</value>
   </data>
   <data name="TBFavouritesLower.Text" xml:space="preserve">
-    <value>Favoriten</value>
+    <value>favoriten</value>
   </data>
   <data name="TBMoreLower.Text" xml:space="preserve">
-    <value>Mehr</value>
+    <value>mehr</value>
   </data>
   <data name="MFIAddToFavourites.Text" xml:space="preserve">
     <value>Zu Favoriten hinzufügen</value>
   </data>
   <data name="TBCountriesLower.Text" xml:space="preserve">
-    <value>Länder</value>
+    <value>länder</value>
   </data>
   <data name="TBLanguagesLower.Text" xml:space="preserve">
-    <value>Sprachen</value>
+    <value>sprachen</value>
   </data>
   <data name="TBSearchLower.Text" xml:space="preserve">
-    <value>Suchen</value>
+    <value>suchen</value>
   </data>
   <data name="MFIRemoveFromFavourites.Text" xml:space="preserve">
     <value>Aus Favoriten entfernen</value>
   </data>
   <data name="TBGenresLower.Text" xml:space="preserve">
-    <value>Genres</value>
+    <value>genres</value>
   </data>
   <data name="PageHeaderStreaming.Content" xml:space="preserve">
     <value>Streaming</value>
   </data>
   <data name="TBRadioLower.Text" xml:space="preserve">
-    <value>Radio</value>
+    <value>radio</value>
   </data>
   <data name="TBUseSystemIndexing.Text" xml:space="preserve">
     <value>System-Suchindex verwenden (suchen geht schneller). Ausschalten, wenn eineige Dateien nicht gefuden werden.</value>
@@ -1028,5 +1025,26 @@
   </data>
   <data name="MostRecentlyCreated" xml:space="preserve">
     <value>Zuletzt erstellt (neueste zuerst)</value>
+  </data>
+  <data name="AlbumArtColor" xml:space="preserve">
+    <value>Farbe</value>
+  </data>
+  <data name="ContentDialogNewPlaylist.Title" xml:space="preserve">
+    <value>Wiedergabeliste erstellen und Titel hinzufügen</value>
+  </data>
+  <data name="ContentDialogNewPlaylistWithSongs.Title" xml:space="preserve">
+    <value>Wiedergabeliste erstellen</value>
+  </data>
+  <data name="ContentDialogNewPlaylistWithSongs.SecondaryButtonText" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="TBChooseStartupScreen.Text" xml:space="preserve">
+    <value>Startup screen</value>
+  </data>
+  <data name="ContentDialogNewPlaylistWithSongs.PrimaryButtonText" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="AppBarButtonSavePlaylist.Label" xml:space="preserve">
+    <value>Wiedergabeliste speichern</value>
   </data>
 </root>
