@@ -193,7 +193,7 @@
     <value>Anuluj</value>
   </data>
   <data name="ContentDialogNewPlaylist.Title" xml:space="preserve">
-    <value>Utwórz playlistę i dodaj utwory</value>
+    <value>Utwórz nową playlistę</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Usuń</value>
@@ -1028,5 +1028,23 @@
   </data>
   <data name="MostRecentlyCreated" xml:space="preserve">
     <value>Data utworzenia (od najnowszej)</value>
+  </data>
+  <data name="ContentDialogNewPlaylistWithSongs.Title" xml:space="preserve">
+    <value>Utwórz playlistę i dodaj utwory</value>
+  </data>
+  <data name="ContentDialogNewPlaylistWithSongs.SecondaryButtonText" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="ContentDialogNewPlaylistWithSongs.PrimaryButtonText" xml:space="preserve">
+    <value>Zapisz</value>
+  </data>
+  <data name="AppBarButtonSavePlaylist.Label" xml:space="preserve">
+    <value>Zapisz playlistę</value>
+  </data>
+  <data name="TBChooseStartupScreen.Text" xml:space="preserve">
+    <value>Ekran startowy</value>
+  </data>
+  <data name="AlbumArtColor" xml:space="preserve">
+    <value>Kolor</value>
   </data>
 </root>
